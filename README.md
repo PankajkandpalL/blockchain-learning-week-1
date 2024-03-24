@@ -1,14 +1,10 @@
 Blockchain Learning Week 1
 ==========================
 
-[](https://github.com/Pulkit0111/blockchain-learning-week-1?tab=readme-ov-file#blockchain-learning-week-1)
-
 This repository contains assignments for Week 1 of the Blockchain Learning curriculum, focusing on Blockchain basics and JavaScript fundamentals.
 
 Exercises:
 ----------
-
-[](https://github.com/Pulkit0111/blockchain-learning-week-1?tab=readme-ov-file#exercises)
 
 1.  Variables and Data Types:
 
@@ -49,3 +45,7 @@ Exercises:
 
     -   File: `bonusExercise.js`
     -   Run: `node bonusExercise.js`
+
+-----------
+
+- To run the files do, write `bash` in the terminal and then do ./run.sh
