@@ -10,7 +10,7 @@ Exercises:
 
     -   File: `exercise1.js`
     -   Run: `node exercise1.js`
-    -   
+    
 2.  Control Structures:
 
     -   File: `exercise2.js`
