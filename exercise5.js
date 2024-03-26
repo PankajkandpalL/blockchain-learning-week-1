@@ -1,5 +1,5 @@
 const isPalindrome = (str) =>{
- str = str.replace(/[^A-Za-z0-9]/g, '').toLowerCase();   
+ // splitting the code which makes it array and then reversing the array and joining it again to make a string
  return str === str.split('').reverse().join('');
 }
 
